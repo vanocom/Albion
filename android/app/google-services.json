@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "741539015268",
+    "project_id": "albion-online-fame-market",
+    "storage_bucket": "albion-online-fame-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741539015268:android:f482ff07b21974518ecd71",
+        "android_client_info": {
+          "package_name": "com.squizard.albion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741539015268-06ce04tke2ub5mbcu8gd9nnh25fuiqpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBNNNi-hoYqRyMSqSZc9UC8DDTcADCDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741539015268-06ce04tke2ub5mbcu8gd9nnh25fuiqpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741539015268-mll1hqv84eoanu40jg1h16kp4cenitac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.squizard.albion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

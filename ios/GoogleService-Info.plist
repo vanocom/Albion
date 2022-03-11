@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>741539015268-mll1hqv84eoanu40jg1h16kp4cenitac.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.741539015268-mll1hqv84eoanu40jg1h16kp4cenitac</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWGR9c5FWdq8AL5U78BZst7l1S5AUjqzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>741539015268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.squizard.albion</string>
+	<key>PROJECT_ID</key>
+	<string>albion-online-fame-market</string>
+	<key>STORAGE_BUCKET</key>
+	<string>albion-online-fame-market.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:741539015268:ios:0c6153059fb9de2c8ecd71</string>
+</dict>
+</plist>
